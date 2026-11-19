@@ -169,7 +169,7 @@ Working in a **5-person analytics team**, we studied **500+ startups across 30+ 
 
 ## About Me
 
-I'm a student at **Purdue University** interested in **data analytics, business intelligence and data-driven strategy**. I like turning complex datasets into clear stories that help people make better decisions. I'm currently looking for **internship and full-time opportunities** in data analytics, business analytics, BI and consulting roles.
+I'm a student at **Purdue University** interested in **data analytics, business intelligence, and data-driven strategy**. I like turning complex datasets into clear stories that help people make better decisions. I'm currently looking for **internship and full-time opportunities** in data analytics, business analytics, and BI roles.
 
 📫 Feel free to reach out through my GitHub profile. I'd love to connect!
 
